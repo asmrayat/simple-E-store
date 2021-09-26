@@ -16,4 +16,13 @@
     border-radius: 5px;
     cursor: pointer;
 }
+.btn-regular:hover{
+    background-color: black;
+    color: #FF9800;
+    width: 150px;
+    height: 25px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    cursor: pointer;
+}
 
